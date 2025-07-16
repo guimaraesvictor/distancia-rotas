@@ -1,0 +1,116 @@
+[
+  {
+    "origem": "MACEIO-AL",
+    "destino": "VARGEM GRANDE PAULISTA-SP",
+    "distancia": "2.453 km 🚗",
+    "tempo": "42 h 54 min"
+  },
+  {
+    "origem": "MANAUS-AM",
+    "destino": "VARGEM GRANDE PAULISTA-SP",
+    "distancia": "3.880 km 🚗",
+    "tempo": "61 h 35 min"
+  },
+  {
+    "origem": "FEIRA DE SANTANA-BA",
+    "destino": "RIACHO DOS MACHADOS-MG",
+    "distancia": "611 km 🚗",
+    "tempo": "10 h 19 min"
+  },
+  {
+    "origem": "FEIRA DE SANTANA-BA",
+    "destino": "JUAZEIRO DO NORTE-CE",
+    "distancia": "631 km 🚗",
+    "tempo": "9 h 58 min"
+  },
+  {
+    "origem": "FEIRA DE SANTANA-BA",
+    "destino": "EUNAPOLIS-BA",
+    "distancia": "558 km 🚗",
+    "tempo": "8 h 53 min"
+  },
+  {
+    "origem": "BARREIRAS-BA",
+    "destino": "VARGEM GRANDE PAULISTA-SP",
+    "distancia": "1.599 km 🚗",
+    "tempo": "24 h 10 min"
+  },
+  {
+    "origem": "CAMACARI-BA",
+    "destino": "VARGEM GRANDE PAULISTA-SP",
+    "distancia": "1.984 km 🚗",
+    "tempo": "32 h 1 min"
+  },
+  {
+    "origem": "CAMACARI-BA",
+    "destino": "SAO DESIDERIO-BA",
+    "distancia": "874 km 🚗",
+    "tempo": "14 h 45 min"
+  },
+  {
+    "origem": "CANDEIAS-BA",
+    "destino": "VARGEM GRANDE PAULISTA-SP",
+    "distancia": "1.958 km 🚗",
+    "tempo": "31 h 35 min"
+  },
+  {
+    "origem": "CANDEIAS-BA",
+    "destino": "SERRA-ES",
+    "distancia": "1.082 km 🚗",
+    "tempo": "16 h 6 min"
+  },
+  {
+    "origem": "FEIRA DE SANTANA-BA",
+    "destino": "VARGEM GRANDE PAULISTA-SP",
+    "distancia": "1.885 km 🚗",
+    "tempo": "30 h 8 min"
+  },
+  {
+    "origem": "FEIRA DE SANTANA-BA",
+    "destino": "JAPARATUBA-SE",
+    "distancia": "351 km 🚗",
+    "tempo": "7 h 14 min"
+  },
+  {
+    "origem": "FEIRA DE SANTANA-BA",
+    "destino": "FORTALEZA-CE",
+    "distancia": "1.090 km 🚗",
+    "tempo": "16 h 20 min"
+  },
+  {
+    "origem": "FEIRA DE SANTANA-BA",
+    "destino": "JUAZEIRO DO NORTE-CE",
+    "distancia": "631 km 🚗",
+    "tempo": "9 h 58 min"
+  },
+  {
+    "origem": "FEIRA DE SANTANA-BA",
+    "destino": "IPAUMIRIM-CE",
+    "distancia": "667 km 🚗",
+    "tempo": "10 h 7 min"
+  },
+  {
+    "origem": "FEIRA DE SANTANA-BA",
+    "destino": "SIMOES FILHO-BA",
+    "distancia": "90 km 🚗",
+    "tempo": "1 h 39 min"
+  },
+  {
+    "origem": "FEIRA DE SANTANA-BA",
+    "destino": "BARRA-BA",
+    "distancia": "560 km 🚗",
+    "tempo": "11 h 18 min"
+  },
+  {
+    "origem": "FEIRA DE SANTANA-BA",
+    "destino": "FEIRA DE SANTANA-BA",
+    "distancia": null,
+    "tempo": null
+  },
+  {
+    "origem": "JAGUARARI-BA",
+    "destino": "VARGEM GRANDE PAULISTA-SP",
+    "distancia": "2.142 km 🚗",
+    "tempo": "33 h 58 min"
+  }
+]

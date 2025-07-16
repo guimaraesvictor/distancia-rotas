@@ -5,6 +5,7 @@ import time
 import json
 import os
 from lxml import html
+from tqdm import tqdm
 
 base_dir = os.path.dirname(os.path.abspath(__file__))
 json_path = os.path.join(base_dir, "resultado_rotas.json")
@@ -21,7 +22,7 @@ destinos['LOG-O'] = destinos['LOG-O'].round(5)
 destinos['LAT-D'] = destinos['LAT-D'].round(5)
 destinos['LOG-D'] = destinos['LOG-D'].round(5)
 
-for _, des in destinos.iterrows():    
+for _, des in tqdm(destinos.iterrows(), total=len(destinos), desc="Processando destinos", unit="destino"):    
     origem = f"{des['LAT-O']},{des['LOG-O']}"
     destino = f"{des['LAT-D']},{des['LOG-D']}"
     params = {
