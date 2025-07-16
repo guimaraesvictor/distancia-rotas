@@ -18,4 +18,5 @@ Script de webscraping para consultar a distância e tempo em rota entre 2 pontos
   - BeautifulSoup
   - time
   - lxml
-
+  - tqdm
+  - openpyxl
